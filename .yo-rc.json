@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.geekykel"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "tasks",
+    "packageName": "com.geekykel",
+    "packageFolder": "com/geekykel",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTY4ZWMwNWI1ZmI3MzM0MWQ0ODE3NzBhYTg3MmY2MzA0NmI2ZDIwMWNkNTQzODZkZGJkNmY1ZGNiYzIwZTA5ZGUyYzQyOTg0M2I4YzQ5MTJlZGU0YzgxY2I2NzE5OWRiMDVlOGMwNmE0NTQ0NTc4N2ZkMTk3YWNmY2ViZDU4M2Y=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
